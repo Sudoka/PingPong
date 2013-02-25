@@ -2,17 +2,10 @@
 
 Ping Pong Dual is a Node.JS project that will use WebSockets to allow continuous realtime gaming.
 
-Try it out here: http://pingpongdual.herokuapp.com/
-
 ## How to use
 
-First install socket.io locally
 ```bash
 npm install socket.io
-```
-Then run using
-
-```bash
 node app.js
 ```
 
@@ -21,12 +14,10 @@ node app.js
   Libraries: 
     Node.js
     Socket.io
-    jQuery
     
   Languages:
     JavaScript
-    HTML
-    CSS
+    HTML5 Canvas
 
 
 ## License 
